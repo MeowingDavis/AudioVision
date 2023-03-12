@@ -3,12 +3,12 @@
 import blog, { ga, redirects, h } from "blog";
 
 blog({
-  title: "Davis' Blog",
+  title: "Audio Vision Blog",
   description: "AudioVision",
-  header: <header>AudioVision</header>,
+  // header: <header>AudioVision</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
-  avatar: "./img/303.jpg",
+  avatar: "./img/profilepic.jpg",
   avatarClass: "rounded-full",
   author: "Davis Lang",
 
