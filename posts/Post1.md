@@ -9,7 +9,7 @@ publish_date: 2023-03-12
 
 *sometimes the most exciting you can do is nothing..*
 
-<iframe width="675" height="494" src="https://www.youtube.com/embed/QT4xoRgJimU" title="Sound Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Assignment 1 Gina Moore Video](https://www.youtube.com/embed/QT4xoRgJimU)
 
 FEEDBACK: An engaging soundtrack which works well with the sound design elements.
 As discussed in class, articulating the morphs throughout (the way you started at :31) would have made the experience more compelling. 
