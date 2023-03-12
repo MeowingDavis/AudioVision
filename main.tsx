@@ -8,7 +8,7 @@ blog({
   header: <header>AudioVision</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
-  avatar: "./img/profilePic.jpg",
+  avatar: "./img/303.jpg",
   avatarClass: "rounded-full",
   author: "Davis Lang",
 
