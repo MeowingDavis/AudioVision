@@ -3,8 +3,8 @@
 import blog, { ga, redirects, h } from "blog";
 
 blog({
-  title: "Audio Vision Blog",
-  description: "AudioVision",
+  title: "AudioVision Blog",
+  description: "Davis Lang",
   // header: <header>AudioVision</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
