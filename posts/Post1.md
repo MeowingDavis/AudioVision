@@ -7,7 +7,9 @@ publish_date: 2023-03-12
 # Week 1 Audio Vision #
 
 
-*sometimes the most exciting you can do is nothing..*
+*sometimes the most exciting you can do is nothing.. 
+This has been mentioned a few times in class and it's starting to stick.
+ ive noticed that i enjoy the simpler more well thoughtout soundscapes*
 
 [Assignment 1 Gina Moore Video](https://www.youtube.com/embed/QT4xoRgJimU)
 
