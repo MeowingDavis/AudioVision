@@ -12,7 +12,7 @@ This has been mentioned a few times in class and it's starting to stick.
 I feel I need to further understand how to enhance the visuals with sound.
 I love making music and pretty much anything that makes a sound but I want to further understand the relationship between vision and sound.*
 
- ##Assignment One##
+ ## Assignment One ##
 
 [Assignment 1 Gina Moore Video](https://www.youtube.com/embed/QT4xoRgJimU)
 
