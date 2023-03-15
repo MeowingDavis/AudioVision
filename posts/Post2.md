@@ -22,3 +22,10 @@ publish_date: 2023-03-12
     - Suture and anchorage
     - Peak end theory
     - Maximize dynamic range and contrastive valence
+
+
+
+research - learning - project work.
+
+
+expectation compression 
