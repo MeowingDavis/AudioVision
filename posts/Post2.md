@@ -4,7 +4,7 @@ publish_date: 2023-03-12
 ---
 
 
-# week 2 AudioVision #
+# Characteristic sound / role of sound in film/animation #
 
 ![Photo N/A](./img/Charactersound.png)
 

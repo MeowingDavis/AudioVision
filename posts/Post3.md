@@ -4,7 +4,7 @@ publish_date: 2023-03-15
 ---
 
 
-# week 3  #
+# Peak end theory #
 
 
 ## Peak end theory ##
