@@ -9,7 +9,7 @@ publish_date: 2023-03-15
 
 ## Peak end theory ##
 
-
+research - learning - project work.
 
 
 
