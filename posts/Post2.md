@@ -7,7 +7,7 @@ publish_date: 2023-03-12
 # Characteristic sound / role of sound in film/animation #
 
 
-research - learning - project work.
+
 
 
 The term "natural sound" refers to sounds that occur in the environment without any human interference or manipulation. Examples of natural sounds include the sound of wind, waves crashing on a beach, birds singing, or leaves rustling in the wind. Natural sounds can be relaxing and calming, and are often used in relaxation or meditation practices.
