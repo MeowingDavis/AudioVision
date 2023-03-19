@@ -27,6 +27,30 @@ In this paper, the authors explore the application of peak-end theory in sound d
 
 
 
+
+## Soundfont ##
+
+
+SoundFont is a file format that allows for the creation and storage of digital audio samples used for MIDI playback. These samples can be used to emulate various instruments or sounds, and are often used in music production software and hardware.
+
+[nirvana Sm64 soundfont](https://www.youtube.com/watch?v=EtapU5nI6G4)
+
+![Photo N/A](./img/Sm64.png)
+
+
+
+SoundFont was developed by Creative Technology Ltd, a company known for its Sound Blaster line of sound cards. The technology was first introduced in 1991 with the release of the Sound Blaster AWE32 sound card, which included 512KB of onboard memory for storing MIDI samples. This allowed for more realistic and versatile MIDI playback compared to earlier sound cards, which often relied on basic waveform synthesis.
+
+In the following years, Creative continued to develop and improve the SoundFont format, releasing new versions with increased memory capacity and support for more advanced features such as effects processing and modulation. SoundFont quickly became a popular standard for creating and using digital audio samples in MIDI playback, and many other companies and software developers also began supporting the format.
+
+Today, SoundFont remains a widely used and supported format in the music production industry, and has influenced the development of other sample-based formats such as Kontakt and EXS24.
+
+
+
+
+
+
+
 ## proposal things ##
 
 I have reached out to a few students in hopes they'll get back to me sooner rather then later.
