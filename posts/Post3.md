@@ -52,7 +52,7 @@ Today, SoundFont remains a widely used and supported format in the music product
 
 
 
-## proposal things ##
+## project things ##
 
 I have reached out to a few students in hopes they'll get back to me sooner rather then later.
 
