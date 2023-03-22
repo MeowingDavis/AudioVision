@@ -40,6 +40,6 @@ Convergent thinking, on the other hand, involves narrowing down multiple ideas o
 
 ## project things ##
 
-A student by the name of Yanwen Wang AKA liz has said I can do the sound design/sound tracking for her animation based around the affect of coffee on the brain. she will be using music to explore these emotions and said I can have some creative control on how to articulate this.
+This application/plugin utilizes the PaulStretch algorithm, which was originally developed by Nasca Octavian Paul and is now available in the PaulXStretch version created by Xenakios. The user interface has been revamped to cater to different screen sizes and optimized for the latest platforms.
 
-Aside from this I am experiementing with my friends program called quadbike which is an audio visual program built out of frustration of creating music videos. I will be producing a video with it using music I have made and then i will further sound design on top of this. Im ussure whether I will be completely removing the music that was used to create the video in the first place or leave it in, this will become clearer with experimentation.
+PaulXStretch is a tool designed for drastic audio transformations and is not intended for minor adjustments in pitch or time. It is best suited for ambient music and sound design applications, where it can effortlessly convert any audio source into extensive and captivating soundscapes spanning several hours or even days.
