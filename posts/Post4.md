@@ -40,6 +40,8 @@ Convergent thinking, on the other hand, involves narrowing down multiple ideas o
 
 ## project things ##
 
-This application/plugin utilizes the PaulStretch algorithm, which was originally developed by Nasca Octavian Paul and is now available in the PaulXStretch version created by Xenakios. The user interface has been revamped to cater to different screen sizes and optimized for the latest platforms.
 
-PaulXStretch is a tool designed for drastic audio transformations and is not intended for minor adjustments in pitch or time. It is best suited for ambient music and sound design applications, where it can effortlessly convert any audio source into extensive and captivating soundscapes spanning several hours or even days.
+Working with on the sound and soundtracking for an animation with Yanwen Wang - we have just been going over the storyboard making sure im up to date with what is expected.
+
+
+working on a few things id like to feed into my friends audio reaactive program (QuadBikexs)
