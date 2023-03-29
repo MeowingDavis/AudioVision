@@ -1,6 +1,6 @@
 ---
-title: Week 4
-publish_date: 2023-03-22
+title: Week 5
+publish_date: 2023-03-29
 ---
 
 
@@ -13,7 +13,7 @@ research - learning - project work.
 
 
 
-![Photo N/A](./img/apprehension-engine.jpeg)
+![Photo N/A](./img/apprehension-engine.jpg)
 
 This application/plugin is based on the PaulStretch algorithm (Paul’s Extreme Time Stretch, originally developed by Nasca Octavian Paul), and specifically the PaulXStretch version from Xenakios. The UI has been updated, adapted for various screen sizes, and built for the latest platforms.
 
