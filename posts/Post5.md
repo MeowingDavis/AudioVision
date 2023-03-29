@@ -4,10 +4,10 @@ publish_date: 2023-03-29
 ---
 
 
-# Apprehension Engine #
+# Apprehension Engine / A bugs life #
 
 
-## Paul Stretch ##
+## Apprehension Engine ##
 
 research - learning - project work.
 
@@ -15,9 +15,17 @@ research - learning - project work.
 
 ![Photo N/A](./img/apprehension-engine.jpg)
 
-This application/plugin is based on the PaulStretch algorithm (Paul’s Extreme Time Stretch, originally developed by Nasca Octavian Paul), and specifically the PaulXStretch version from Xenakios. The UI has been updated, adapted for various screen sizes, and built for the latest platforms.
+The Apprehension Engine is a custom-built musical instrument designed by Canadian musician Mark Korven in collaboration with Tony Duggan-Smith. The instrument is specifically designed to produce unique and unsettling sounds that are often associated with horror movies and psychological thrillers.
 
- PaulXStretch is designed for radical transformation of sounds. It is NOT suitable for subtle time or pitch correction. Ambient music and sound design are probably the most suitable use cases. It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way.
+The Apprehension Engine is essentially an acoustic instrument that features a variety of different mechanical parts and resonators. It includes a series of metal rulers that are bowed by hand, strings that are plucked, and other mechanisms that are used to create a range of eerie and discordant sounds.
+
+The instrument is often used in film and television soundtracks to create a sense of unease or tension. It has been used in a number of popular horror movies, including The Witch and The Autopsy of Jane Doe. The Apprehension Engine has also been featured in a number of musical compositions and performances, showcasing its unique and unsettling sonic qualities.
+
+
+
+## A bugs life ##
+
+
 
 
 
