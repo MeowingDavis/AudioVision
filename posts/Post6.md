@@ -11,7 +11,7 @@ disable_html_sanitization: true
 
 
 
-## Sound motive ##
+## Sound motif ##
 
 
 A sound motif is a sound effect or a combination of sound effects that is linked to a specific character, setting, situation, or idea throughout the film. These sound motifs emotionally prepare the audience for the appearance, arrival, or actions of a particular character. They are particularly useful during the initial stages of film production, where they help to establish the narrative functions of the characters and create a sound association for each character as the story progresses.
