@@ -5,7 +5,7 @@ publish_date: 2023-03-22
 
 
 # Paul Stretch / Divergent vs convergent thinking   #
-
+---
 
 ## Paul Stretch ##
 
@@ -21,7 +21,7 @@ This application/plugin is based on the PaulStretch algorithm (Paul’s Extreme 
 
 
 
-
+---
 
 ## Divergent vs Convergent thinking ##
 
@@ -36,7 +36,7 @@ Convergent thinking, on the other hand, involves narrowing down multiple ideas o
 
 
 
-
+---
 
 ## project things ##
 
