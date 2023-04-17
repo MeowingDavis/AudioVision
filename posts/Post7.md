@@ -14,7 +14,7 @@ geography, history, cartoonism
 
  
 
-### Structural (
+### Structural 
 micro and macrostructural devices to modulate attention, anaesthetise – distract from mechanics of the form, project confidence 
 
  
