@@ -34,15 +34,15 @@ Either delineating a psychological dimensionality in a character, or suggestivel
  
  
 
-    objects (physical) 
+    * objects (physical) 
 
-    Actions (physical) 
+    * Actions (physical) 
 
-    Environments (physical) 
+    * Environments (physical) 
 
-    Emotions ( psychological) 
+    * Emotions ( psychological) 
 
-    Transitions (Structural) 
+    * Transitions (Structural) 
 
  
  
@@ -50,13 +50,13 @@ Either delineating a psychological dimensionality in a character, or suggestivel
  
  
 
-    Non-musical / synchronous 
+    * Non-musical / synchronous 
 
-    Musical / synchronous 
+    * Musical / synchronous 
 
-    Musical / asynchronous 
+    * Musical / asynchronous 
 
-    Non-musical / asynchronous 
+    * Non-musical / asynchronous 
 
 
 
