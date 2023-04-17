@@ -6,6 +6,7 @@ disable_html_sanitization: true
 
 ## sound breakdown/Emotional realism ##
 
+---
 
 ### Physical ##
 geography, history, cartoonism 
