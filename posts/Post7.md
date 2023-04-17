@@ -4,7 +4,7 @@ publish_date: 2023-04-17
 disable_html_sanitization: true
 ---
 
-## sound breakdown ##
+## sound breakdown/Emotional realism ##
 
 
 ### Physical ##
@@ -57,6 +57,13 @@ Either delineating a psychological dimensionality in a character, or suggestivel
     Musical / asynchronous 
 
     Non-musical / asynchronous 
+
+
+
+
+## Emotional Realism
+
+The same sound can serve both the physical and the emotional meaning. It is possible to superimpose the emotional realism over the physical of the scene. The sound track reflects the mood of the story and the characters feelings.
 
  
 
