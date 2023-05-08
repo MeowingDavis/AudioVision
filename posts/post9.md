@@ -32,20 +32,18 @@ Umwelt, a concept by biologist Jakob von Uexküll, refers to an organism's uniqu
 ## Sci-fi sound lecture
 
 
- 1. sound is made us of speech music and noise or sound effects.
-
- 2. sound opens-up the possibility for the synchronization of the senses.
+1. sound is made us of speech music and noise or sound effects.
+2. sound opens-up the possibility for the synchronization of the senses.
 
  #### thx1 18.
 
  I feel a sense of wonder, the background strings are leeaving me something i want to question 
 
 
- bike bell for the elevator? 
+ ### bike bell for the elevator? 
     
-    sounds from "today" can be used in scifi to create a sense of realism. 
-
- a lot of voices through radio
+1. sounds from "today" can be used in scifi to create a sense of realism. 
+2. a lot of voices through radio
 
 
 
@@ -54,12 +52,10 @@ Umwelt, a concept by biologist Jakob von Uexküll, refers to an organism's uniqu
 
 
 1. Loudness, pitch and timbre interact to define the overall sonic texture and sound perspecttive of the screen world
-
 2. sound has a rhythm 
 
     - the beat and tempo of a musical score
-
     - the pacing and syllabus stress of speech
-
+    - the rhythmic qualities of the sound effect
 
 
