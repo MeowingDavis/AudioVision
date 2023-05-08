@@ -14,7 +14,7 @@ The Web Audio API involves handling audio operations inside an audio context, an
 
 ---
 
-## web audio experiment
+<!-- ## web audio experiment
 
 recently I have been obsessed with web audio. 
 
@@ -22,7 +22,7 @@ this is an experiement made using javascript and a sampled 303 bassline. I wante
 
  [NetArt sound experiemnt](https://netart-davis.deno.dev/)
 
- 
+  -->
 
 
 ---
