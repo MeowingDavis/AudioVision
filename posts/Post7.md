@@ -68,3 +68,6 @@ The same sound can serve both the physical and the emotional meaning. It is poss
 ---
 
  ## project work ##
+
+
+ <iframe width="878" height="494" src="https://www.youtube.com/embed/pwNP35hk6sk" title="LIZ ANIMATION SOUNDDRAFT 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -3,3 +3,25 @@ title: Week 8
 publish_date: 2023-05-01
 disable_html_sanitization: true
 ---
+## web audio api 
+
+
+The Web Audio API involves handling audio operations inside an audio context, and has been designed to allow modular routing. Basic audio operations are performed with audio nodes, which are linked together to form an audio routing graph. Several sources — with different types of channel layout — are supported even within a single context. This modular design provides the flexibility to create complex audio functions with dynamic effects.
+
+
+
+
+
+---
+
+## web audio experiment
+
+recently I have been obsessed with web audio. 
+
+this is an experiement made using javascript and a sampled 303 bassline. I wanted to explore the visual relationship between visuals and audio on the web 
+
+ [NetArt sound experiemnt](https://netart-davis.deno.dev/)
+
+ 
+
+
