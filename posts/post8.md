@@ -33,8 +33,10 @@ this is an experiement made using javascript and a sampled 303 bassline. I wante
 
 #### canffienism 
 
-liz has provided me with an updated intro segment of the animation. she has said this will be the final timing for movement. i have began to edit in the sound design 
+liz has provided me with an updated intro segment of the animation. she has said this will be the final timing for movement. I have began to edit in the sound design and have sent it back to her as another draft.  
 
 She has said she is happy with the music I have provided. I will work on mixing and mastering in the next week or so. 
 
 <iframe width="878" height="494" src="https://www.youtube.com/embed/pwNP35hk6sk" title="LIZ ANIMATION SOUNDDRAFT 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
