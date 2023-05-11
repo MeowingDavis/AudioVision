@@ -40,3 +40,17 @@ She has said she is happy with the music I have provided. I will work on mixing 
 <iframe width="878" height="494" src="https://www.youtube.com/embed/pwNP35hk6sk" title="LIZ ANIMATION SOUNDDRAFT 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+#### audio reactive 
+
+  i have finalised my choice for the generarted video for this project. After experimenting i was able to generate one that was very pixilated and I thought it was a good choice.
+
+  --> still need to upload <--   
+
+
+  #### web audio visual
+
+
+  I have decided to also include a third project for a bit of fun. it maps a drone loop to visuals created using javascript.  
+
+
+   [Drift](https://drift.deno.dev/)
