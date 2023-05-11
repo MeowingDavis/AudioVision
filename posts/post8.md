@@ -42,7 +42,9 @@ She has said she is happy with the music I have provided. I will work on mixing 
 
 #### audio reactive 
 
-  i have finalised my choice for the generarted video for this project. After experimenting i was able to generate one that was very pixilated and I thought it was a good choice.
+I have finalized my choices for the generated videos in this project.
+
+Ideally, I aim to create a single video with a duration of approximately 1 minute and 30 seconds. However, considering the inherent jumpiness of the generated videos, I anticipate that achieving smooth transitions throughout the entire duration might be challenging. In case it becomes overly difficult, my alternative plan is to generate 2 to 3 shorter 30-second videos instead.
 
   --> still need to upload <--   
 
@@ -50,7 +52,7 @@ She has said she is happy with the music I have provided. I will work on mixing 
   #### web audio visual
 
 
-  I have decided to also include a third project for a bit of fun. it maps a drone loop to visuals created using javascript.  
+I've recently added a third project. This project involves mapping a drone loop to visually captivating elements using JavaScript. I've given it the name 'Drift.' The idea behind Drift is to create an experience where you can immerse yourself in the circle, while simultaneously enjoying the mesmerizing sounds of the drone.
 
 
    [Drift](https://drift.deno.dev/)
