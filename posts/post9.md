@@ -24,6 +24,24 @@ Umwelt, a concept by biologist Jakob von Uexküll, refers to an organism's uniqu
 
 ## project things
 
+following on some feedback liz got from her lecture some changes to the sounnd design have been made. 
+
+it was suggest the sound fx around the eyeball were a bit to synthetic. 
+
+[Caffenism draft 10](https://youtu.be/faBM6MhkAqY)
+
+[Caffenism draft 9](https://youtu.be/OklQTK979ZM)
+
+I have begun to fill in the sound design around my generated video.
+
+the visuals have inspired me to look toward static, hissing, low bit rate and erosion of sound. I don't want want the end rusult to be overly videogamie or chip tunie.
+
+To me the visuals almost feel like we are travelling somewhere through some digital hyperspace.
+
+[flicker_0.1](https://youtu.be/1c-MHRbcJ7o)
+
+I have continued working well beyond the above example and will continue to work on it until my blog update next week. this is only a very very rough start to get some ideas out. 
+
 
 
 
