@@ -38,7 +38,7 @@ the visuals have inspired me to look toward static, hissing, low bit rate and er
 
 To me the visuals almost feel like we are travelling somewhere through some digital hyperspace.
 
-https://www.youtube.com/watch?v=1c-MHRbcJ7o&feature=youtu.be
+<iframe width="878" height="494" src="https://www.youtube.com/embed/1c-MHRbcJ7o" title="flicker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I have continued working well beyond the above example and will continue to work on it until my blog update next week. this is only a very very rough start to get some ideas out. 
 
