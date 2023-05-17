@@ -44,15 +44,5 @@ She has said she is happy with the music I have provided. I will work on mixing 
 
 I have finalized my choices for the generated videos in this project.
 
-Ideally, I aim to create a single video with a duration of approximately 1 minute and 30 seconds. However, considering the inherent jumpiness of the generated videos, I anticipate that achieving smooth transitions throughout the entire duration might be challenging. In case it becomes overly difficult, my alternative plan is to generate 2 to 3 shorter 30-second videos instead.
+i will update next week with some 
 
-  --> still need to upload <--   
-
-
-  #### web audio visual
-
-
-I've recently added a third project. This project involves mapping a drone loop to visually captivating elements using JavaScript. I've given it the name 'Drift.' The idea behind Drift is to create an experience where you can immerse yourself in the circle, while simultaneously enjoying the mesmerizing sounds of the drone.
-
-
-   [Drift](https://drift.deno.dev/)

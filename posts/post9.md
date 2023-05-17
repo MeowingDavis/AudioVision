@@ -28,9 +28,9 @@ following on some feedback liz got from her lecture some changes to the sounnd d
 
 it was suggest the sound fx around the eyeball were a bit to synthetic. 
 
-[Caffenism draft 10](https://youtu.be/faBM6MhkAqY)
+<iframe width="878" height="494" src="https://www.youtube.com/embed/faBM6MhkAqY" title="LIZ ANIMATION SOUNDDRAFT 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Caffenism draft 9](https://youtu.be/OklQTK979ZM)
+<iframe width="878" height="494" src="https://www.youtube.com/embed/OklQTK979ZM" title="liz animation draft 9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I have begun to fill in the sound design around my generated video.
 
@@ -38,7 +38,7 @@ the visuals have inspired me to look toward static, hissing, low bit rate and er
 
 To me the visuals almost feel like we are travelling somewhere through some digital hyperspace.
 
-[flicker_0.1](https://youtu.be/1c-MHRbcJ7o)
+https://www.youtube.com/watch?v=1c-MHRbcJ7o&feature=youtu.be
 
 I have continued working well beyond the above example and will continue to work on it until my blog update next week. this is only a very very rough start to get some ideas out. 
 
