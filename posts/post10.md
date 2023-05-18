@@ -10,18 +10,19 @@ Binaural audio is a technique that aims to replicate the way humans perceive sou
 Stereo to binaural conversion is a technique used to transform stereo audio recordings into binaural audio, which creates a more immersive and realistic listening experience. Stereo audio typically consists of two channels, left and right, which are intended to be played back through speakers placed in front of the listener. However, when listening to stereo audio through headphones, the sound may still feel like it is coming from outside the head rather than from within.
 
 
-
+---
 
 ## Projects
 
-### Caffenism draft 11 ###
+### Caffenism draft 11
 
 
 I'm currently in the process of incorporating feedback from draft 10 and making a few adjustments based on the suggestions provided by liz and peers. In particular, I'm focusing on removing some of the metallic and synth-like sounds to achieve a different sonic direction.
----
+
+
 <iframe width="878" height="494" src="https://www.youtube.com/embed/uTOuX98WxbA" title="LIZ ANIMATION SOUNDDRAFT 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-feedback: add sound for when the guy is spitting out his body parts.
+
 ---
 
 ### flicker
