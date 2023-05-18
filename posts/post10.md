@@ -15,6 +15,7 @@ Stereo to binaural conversion is a technique used to transform stereo audio reco
 ## Projects
 
 ### Caffenism draft 11 
+---
 
 I'm currently in the process of incorporating feedback from draft 10 and making a few adjustments based on the suggestions provided by liz and peers. In particular, I'm focusing on removing some of the metallic and synth-like sounds to achieve a different sonic direction.
 ---
