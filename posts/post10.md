@@ -17,7 +17,10 @@ disable_html_sanitization: true
 #### flicker
 
 
-    continuing to work my way through. putting some of the feedback from canvas into action. I like what oliver said about using sharper transient sounds and i understand what adam said about using chip tune sounds but im trying to not have it overly video game like but have incorpirated some bit reduction.
+    continuing to work my way through. putting some of the feedback from canvas into action. 
+    I like what oliver said about using sharper transient sounds and i understand what adam said 
+    about using chip tune sounds but im trying to not have it overly video game like 
+    but have incorpirated some bit reduction.
 
 ---
 <iframe width="878" height="494" src="https://www.youtube.com/embed/De_LDvmolD4" title="flicker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
