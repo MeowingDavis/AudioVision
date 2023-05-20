@@ -14,9 +14,12 @@ Stereo to binaural conversion is a technique used to transform stereo audio reco
 
 
 ---
+
 ### Layering
 
+
 Just like my appreciation for fades, I have come to recognise the true significance of layering in my sound design endeavors. Layering sounds has proven to be indispensable in my recent projects. Initially, I incorporated layers without giving them much thought, but over time, their importance gradually became evident. In the "Caffenism" project, for instance, I utilized 61 audio tracks within the first 30 seconds, even though the final result may not convey the extent of the layered complexity. This realization has deepened my understanding of how layering can profoundly impact the effectiveness of sound design. Now, I am beginning to fully appreciate the power that arises from the combination of layering and fades, and how it can elevate the overall sonic experience.
+
 ---
 
 ## Projects
