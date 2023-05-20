@@ -30,6 +30,19 @@ I'm currently in the process of incorporating feedback from draft 10 and making 
 <iframe width="878" height="494" src="https://www.youtube.com/embed/uTOuX98WxbA" title="LIZ ANIMATION SOUNDDRAFT 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+liz has just informed me that I will be doing the sound design for the intro as well. I wasn't aware there would be an intro that needed to be sound designed.
+
+
+### Caffienism draft 12
+
+<iframe width="878" height="494" src="https://www.youtube.com/embed/FeX_pEae-8s" title="LIZ ANIMATION SOUNDDRAFT 12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+Head squeeze sound 
+
+Different sound for mouth open !?1
+
+Spitty out sound
 ---
 
 ### flicker
