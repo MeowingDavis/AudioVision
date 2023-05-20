@@ -4,10 +4,10 @@ publish_date: 2023-03-15
 ---
 
 
-# Peak end theory / Soundfont #
+# Peak end theory / Soundfont 
 
 ---
-## Peak end theory ##
+## Peak end theory 
 
 research - learning - project work.
 
@@ -28,7 +28,7 @@ In this paper, the authors explore the application of peak-end theory in sound d
 
 ---
 
-## Soundfont ##
+## Soundfont 
 
 *this video was suggested to me on youtube and i decided to check out what soundfont was*
 

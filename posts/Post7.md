@@ -8,21 +8,21 @@ disable_html_sanitization: true
 
 ---
 
-### Physical ##
+### Physical 
 geography, history, cartoonism 
 
  
 
  
 
-### Structural ##
+### Structural 
 micro and macrostructural devices to modulate attention, anaesthetise – distract from mechanics of the form, project confidence 
 
  
 
  
 
-### Psychological ##
+### Psychological 
 Either delineating a psychological dimensionality in a character, or suggestively making us feel particular ways about a character and their intentions  
 
  
@@ -46,7 +46,7 @@ Either delineating a psychological dimensionality in a character, or suggestivel
 
  
  
-## Audiovisual options ##
+## Audiovisual options 
  
  
 
@@ -67,7 +67,7 @@ The same sound can serve both the physical and the emotional meaning. It is poss
 
 ---
 
- ## project work ##
+ ## project work 
 
 
 

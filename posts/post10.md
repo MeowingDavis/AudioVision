@@ -3,13 +3,20 @@ title: Week 10
 publish_date: 2023-05-17
 disable_html_sanitization: true
 ---
-### binaural
+
+
+### Binaural
+
 
 Binaural audio is a technique that aims to replicate the way humans perceive sound in a three-dimensional space. It involves capturing audio using specialized microphones or recording techniques that mimic the human ear's natural hearing capabilities. By utilizing two microphones placed strategically to replicate the position of human ears, binaural audio creates an immersive and realistic listening experience, providing a sense of depth, directionality, and spatial awareness. When played back through headphones, binaural audio can transport listeners into a virtual auditory environment, allowing them to perceive sounds as if they were actually present in the recorded space. This technology is particularly effective in applications such as virtual reality experiences, gaming, and audio storytelling, where a lifelike and immersive audio experience is desired.
 
 Stereo to binaural conversion is a technique used to transform stereo audio recordings into binaural audio, which creates a more immersive and realistic listening experience. Stereo audio typically consists of two channels, left and right, which are intended to be played back through speakers placed in front of the listener. However, when listening to stereo audio through headphones, the sound may still feel like it is coming from outside the head rather than from within.
 
 
+---
+### Layering
+
+Just like my appreciation for fades, I have come to recognise the true significance of layering in my sound design endeavors. Layering sounds has proven to be indispensable in my recent projects. Initially, I incorporated layers without giving them much thought, but over time, their importance gradually became evident. In the "Caffenism" project, for instance, I utilized 61 audio tracks within the first 30 seconds, even though the final result may not convey the extent of the layered complexity. This realization has deepened my understanding of how layering can profoundly impact the effectiveness of sound design. Now, I am beginning to fully appreciate the power that arises from the combination of layering and fades, and how it can elevate the overall sonic experience.
 ---
 
 ## Projects

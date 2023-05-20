@@ -14,16 +14,9 @@ The Web Audio API involves handling audio operations inside an audio context, an
 
 ---
 
-<!-- ## web audio experiment
+### fades
 
-recently I have been obsessed with web audio. 
-
-this is an experiement made using javascript and a sampled 303 bassline. I wanted to explore the visual relationship between visuals and audio on the web 
-
- [NetArt sound experiemnt](https://netart-davis.deno.dev/)
-
-  -->
-
+I have a deep appreciation for the creative potential of fades in sound design, and it's easy to overlook their true significance and power. During my studies in spatial sound last semester, I had a profound realisation about the importance of fades. I discovered that fades can go beyond simple transitions between sounds and actually shape and transform them, resulting in the creation of entirely new and unique sonic experiences. This newfound understanding has reinforced the essential role that fades play in sound design, and I continue to recognize their ability to unleash innovative and captivating auditory possibilities.
 
 ---
 
