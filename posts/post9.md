@@ -36,7 +36,7 @@ I have begun to fill in the sound design around my generated video.
 
 the visuals have inspired me to look toward static, hissing, low bit rate and erosion of sound. I don't want want the end rusult to be overly videogamie or chip tunie.
 
-To me the visuals almost feel like we are travelling somewhere through some digital hyperspace.
+
 
 <iframe width="878" height="494" src="https://www.youtube.com/embed/1c-MHRbcJ7o" title="flicker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

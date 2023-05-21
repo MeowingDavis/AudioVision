@@ -53,7 +53,7 @@ Spitty out sound
 
 I'm currently implementing the feedback I received on Canvas and incorporating some of the suggestions from Oliver and Adam. Oliver's suggestion of using sharper transient sounds is resonating with me, as it can add impact and dynamics to the audio. While Adam mentioned chip tune sounds, I want to ensure that the overall aesthetic doesn't become overly video game-like. However, I do plan to incorporate elements of bit reduction to introduce a nostalgic and digital vibe.
 
-To further enhance the immersive experience, I'm exploring the use of binaural plug-ins. I've noticed that certain visuals create the sensation of objects moving towards the viewer, and I want to capitalize on that effect. By implementing binaural processing, I aim to precisely position and move sounds to match the visual movement, creating a more immersive and captivating experience. The idea of traversing through a digital hyperspace has inspired me, and I believe binaural audio can greatly enhance the sensation of being immersed in that digital realm.
+To further enhance the immersive experience, I'm exploring the use of binaural plug-ins. I've noticed that certain visuals create the sensation of objects moving towards the viewer, and I want to capitalize on that effect. By implementing binaural processing, I aim to precisely position and move sounds to match the visual movement, creating a more immersive and captivating experience.
 
 
 <iframe width="878" height="494" src="https://www.youtube.com/embed/De_LDvmolD4" title="flicker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
