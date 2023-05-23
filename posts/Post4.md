@@ -41,7 +41,7 @@ Convergent thinking, on the other hand, involves narrowing down multiple ideas o
 ## project things ##
 
 
-Working with on the sound and soundtracking for an animation with Yanwen Wang - we have just been going over the storyboard making sure im up to date with what is expected.
+Working with on the sound and soundtracking for an animation with Yanwen Wang (liz) - we have just been going over the storyboard making sure im up to date with what is expected.
 
 
-working on a few things i'd like to feed into my friends audio reaactive program (QuadBikexs)
+Working on a few things i'd like to feed into my friends audio reaactive program (QuadBike)
