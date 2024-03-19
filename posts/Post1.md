@@ -6,7 +6,7 @@ publish_date: 2023-03-19
 
 # Introduction #
 
-angerLine is a simple yet captivating 3D stealth game where sound and lighting take center stage in guiding players through a heavily surveilled cityscape. Players embark on an auditory journey, following an evolving, drone-like sound that serves as their sole companion and directional guide.
+DangerLine is a simple yet captivating 3D stealth game where sound and lighting take center stage in guiding players through a heavily surveilled cityscape. Players embark on an auditory journey, following an evolving, drone-like sound that serves as their directional guide.
 
 In this immersive experience, players navigate the city's shadows, mastering the art of stealth and parkour without access to weaponry."The incorporation of parkour in digital games emphasises its capacity to introduce dynamic movement and enhance player interaction with the virtual environment" (Friedrich, 2018). The game-play revolves around utilising the environment and their senses, relying on the ever-evolving sound attempting to avoid detection while progressing through the narrative.
 
