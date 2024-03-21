@@ -6,4 +6,4 @@ publish_date: 2023-03-21
 # Camera Script
 
 
-![Photo N/A](./img/Camera)
+![Photo N/A](./img/Camera.png)
