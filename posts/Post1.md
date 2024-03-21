@@ -14,7 +14,9 @@ Lighting, plays a secondary role to the intricate sound design, serving to enhan
 
 Developed using Unity, DangerLine uses the platform's capabilities to create an interactive, environment that revolves around the nuances of sound. 
 
+<br>
 
 
 
-<!-- ![Photo N/A](./img/Charactersound.png) -->
+
+![Photo N/A](./img/Danger.png)
