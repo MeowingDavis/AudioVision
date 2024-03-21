@@ -19,4 +19,4 @@ Developed using Unity, DangerLine uses the platform's capabilities to create an 
 
 
 
-![Photo N/A](./img/Danger.png)
+<!-- ![Photo N/A](./img/Danger.png) -->
