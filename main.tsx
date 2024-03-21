@@ -6,7 +6,7 @@ blog({
   title: "DangerLine",
   description: "Davis Lang",
   // header: <header>AudioVision</header>,
-  // section: <section>Your custom section</section>,
+  section: <section><a>PLAY HERE</a></section>,
   // footer: <footer>Your custom footer</footer>,
   avatar: "./img/Designer.png",
   avatarClass: "rounded-full",
