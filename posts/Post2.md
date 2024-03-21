@@ -19,6 +19,4 @@ Amidst the eerie silence of the alley, a faint sound calls out, its origin shrou
 
 As you stand amidst the shadows, uncertainty grips your heart. Should you heed the call, risking potential danger in pursuit of liberation? Or cling to the safety of solitude, wary of the unknown that lies beyond?
 
-With each passing moment, the sound grows louder, more insistent, teasing at the edges of your perception. Time hangs suspended, a delicate balance between curiosity and caution, as you weigh the choice that may shape your destiny.
-
-
+With each passing moment, the sound grows louder, more insistent, teasing at the edges of your perception. Time hangs suspended, a delicate balance between curiosity and caution, as you weigh the choice that may shape your destiny. And amidst it all, a nagging question persists: Are you the sole one liberated, or are there others like you, emerging from the depths of Crimson's control?
