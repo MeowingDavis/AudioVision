@@ -27,4 +27,5 @@ With each passing moment, the sound grows louder, more insistent, teasing at the
 
 # Moodboard
 
-![Photo N/A](./img/Danger.png)
+![Photo N/A](../img/Danger.png)
+![Photo N/A](../img/citynight.png)
