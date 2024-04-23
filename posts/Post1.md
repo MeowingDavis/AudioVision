@@ -1,6 +1,6 @@
 ---
 title: Introduction
-publish_date: 2023-03-19
+publish_date: 2024-03-19
 ---
 
 
@@ -19,4 +19,3 @@ Developed using Unity, DangerLine uses the platform's capabilities to create an 
 
 
 
-<!-- ![Photo N/A](./img/Danger.png) -->
