@@ -4,8 +4,9 @@ publish_date: 2024-04-26
 ---
 
 <p>I was concerned that my game lacked a story.</p>
+<br>
+<p>I've decided it would be best to have some cutscenes in a slideshow style to give players context and help with engagement. My friend and I have been developing a sci-fi story which has mainly focused on the lore so far. I want DangerLines's story to fit within the same universe as both stories or concepts have very similar ideas.</p>
 
-I've decided it would be best to have some cutscenes in a slideshow style to give players context and help with engagement. My friend and I have been developing a sci-fi story which has mainly focused on the lore so far. I want DangerLines's story to fit within the same universe as both stories or concepts have very similar ideas.
 
 ---
 <p>The year is 2088. Humans have mined Earth to the point of no return. As a result of this, humans live in an altered state of reality known as the Glass City. The Glass City is just a facade, a mere structure of a city, an illusion. Humans are implanted with a chip that augments the reality around them, convincing them of a reality that doesn't really exist.</p>
