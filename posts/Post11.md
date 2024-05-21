@@ -13,7 +13,7 @@ Server Room: thin hallways, lots of surveillance cameras, very low lighting.
 
 the music in this area will be very intense.
 
-photo and screen shots to come this page will be uploaded shortly.
+<iframe width="1280" height="648" src="https://www.youtube.com/embed/GFPWrrE2ji8" title="drone exp1 server room test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
