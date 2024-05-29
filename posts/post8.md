@@ -4,6 +4,7 @@ publish_date: 2024-05-03
 ---
 
 ---
+
 I would like the game to remain without
 weapons, as I had initially proposed, but I
 have been considering the idea of implementing
