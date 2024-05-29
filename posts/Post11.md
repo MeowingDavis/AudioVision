@@ -21,3 +21,6 @@ the music in this area will be very intense.
 ### Radio
 
 The Radio will not make it to the game.
+
+
+instead the a walkie talkie will be placed in the world as an interactive bit of law.
