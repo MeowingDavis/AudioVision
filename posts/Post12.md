@@ -9,7 +9,10 @@ These assets include:
 
 - A victorian style lamp post.
 <br>
+
 ![Photo N/A](./img/lampPost.png)
+
+<br>
 
 - A telstra styled phone box.
 - A Drone style robot.
