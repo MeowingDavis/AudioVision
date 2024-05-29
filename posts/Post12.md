@@ -8,8 +8,15 @@ Thomas From the internal internship program at RMIT has provided some 3d assets 
 These assets include:
 
 - A victorian style lamp post.
+<br>
+![Photo N/A](./img/lampPost.png)
+
 - A telstra styled phone box.
 - A Drone style robot.
+
+
+
+
 
 
 ---
