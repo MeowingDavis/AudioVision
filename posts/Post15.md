@@ -31,7 +31,4 @@ publish_date: 2024-06-07
 ![Photo N/A](./img/22.jpg)
 ![Photo N/A](./img/23.jpg)
 ![Photo N/A](./img/24.jpg)
-![Photo N/A](./img/25.jpg)
-![Photo N/A](./img/26.jpg)
-![Photo N/A](./img/27.jpg)
-![Photo N/A](./img/28.jpg)
+
