@@ -4,7 +4,7 @@ publish_date: 2024-06-07
 ---
 
 
-```C#
+```C
 
 using System;
 using UnityEngine;
