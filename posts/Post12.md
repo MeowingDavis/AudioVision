@@ -22,6 +22,8 @@ These assets include:
 <br>
 - A Drone style robot.
 
+![Photo N/A](./img/bbDrone.png)
+
 <br>
 
 <iframe width="1156" height="680" src="https://www.youtube.com/embed/R7Nq7qqhI00" title="Drone_update_new_Asset" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
