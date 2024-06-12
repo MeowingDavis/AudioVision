@@ -8,8 +8,7 @@ publish_date: 2024-06-07
 
 The exhibition was an amazing day! It was so much fun to watch everyone play DangerLine!
 
-I received a lot of necessary feedback!
-
+I received a lot of valuable feedback. My two main takeaways were that I need to add a timer for when the drone spots you and a tutorial level to help people understand the controls.
 
 ![Photo N/A](./img/1.jpg)
 ![Photo N/A](./img/3.jpg)
