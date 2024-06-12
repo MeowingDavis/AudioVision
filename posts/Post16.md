@@ -10,6 +10,6 @@ I would like the game to be playable in the browser! As of now, it's still a lit
 
 
 
-[Link Text](https://dangerline-web.deno.dev/)
+[WEB BUILD PAGE](https://dangerline-web.deno.dev/)
 
 
