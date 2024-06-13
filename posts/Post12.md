@@ -14,7 +14,7 @@ These assets include:
 
 <br>
 
-- A telstra styled phone box.
+- walkie-talkie
 <br>
 
 ![Photo N/A](./img/Radio.png)
