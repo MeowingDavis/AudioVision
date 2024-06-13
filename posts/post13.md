@@ -8,7 +8,7 @@ publish_date: 2024-06-01
 
 The Control Room will be the final level of DangerLine.
 
-To provide a final parkour test and simplify the exterior level design, it will be an open-air level.
+To provide a final parkour test and to simplify the level design it will be an open-air level.
 
 This level will feature glass everywhere as a final callback to the glass city.
 
